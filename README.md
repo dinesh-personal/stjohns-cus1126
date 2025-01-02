@@ -1,2 +1,6 @@
 # stjohns-cus1126
-Sample Code for CUS 1126 for St. Johns University in Spring 2025
+This repository contains the sample code mentioned in the various chapters of the book 
+'Learning Data Structures in the Generative AI Era'. 
+
+Each file contains the Java version of the code mentioned in the book. 
+
